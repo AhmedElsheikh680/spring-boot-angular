@@ -1,4 +1,16 @@
-# spring-boot-angular
+# Spring boot + Angular 11 (RestfullAPI)
+Technologies<br/>
+Mandatory<br/>
+⦁	H2 Database  ✅ <br/>
+⦁	Spring Framework  ✅ <br/>
+⦁	Spring Data JPA  ✅ <br/>
+⦁	Spring Security  ✅ <br/>
+⦁	Build Tool (i.e. Maven)  ✅ <br/>
+⦁	REST  ✅ <br/>
+⦁	JWT <br/>
+⦁	Angular <br/>
+⦁	Bootstrap <br/>
+⦁	Postman <br/>
 # Installation 
 - Node v8+ for npm
 - Visual Studio Code - Latest Version
@@ -51,6 +63,9 @@ Authorization
 Other URLS
 - Refresh - http://localhost:8080/authenticate
 
-
+## Instructions to run frontend
+1- Extract the FRONT-END to youe text editor and just run (ng serve)on port(4200) for angular ((6)) after installing node.js and angualr-cli.<br/>
+2- To fully functional project you must run spring boot in background.<br/>
+<br/>
 
 
